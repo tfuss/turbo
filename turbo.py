@@ -39,7 +39,7 @@ INPUT = "[\x1b[33m?\x1b[39m]"
 INFO = "[\x1b[35m*\x1b[39m]"
 
 IG_ACCNT_LOGOUT = "{{\"phone_id\":\"{}\",\"guid\":\"{}\",\"device_id\":\"{}\"}}"
-IG_EDIT_PROFILE = "{{\"gender\":\"3\",\"username\":\"{}\",\"first_name\":\"Reckless\",\"biography\":\"Welcome home!\",\"email\":\"{}\"}}"
+IG_EDIT_PROFILE = "{{\"gender\":\"3\",\"username\":\"{}\",\"first_name\":\"Atlas v4.3\",\"biography\":\" \",\"email\":\"{}\"}}"
 IG_LOGIN_ACTUAL = "{{\"phone_id\":\"{}\",\"username\":\"{}\",\"adid\":\"{}\",\"guid\":\"{}\",\"device_id\":\"{}\",\"password\":\"{}\",\"login_attempt_count\":\"0\"}}"
 
 IG_API_CONTENT_TYPE = "application/x-www-form-urlencoded; charset=UTF-8"
